@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+}
+.display-blk{
+    display: block;
+}
+.display-in-blk{
+    display: inline-block;
+}
+.float-left{
+    float: left;
+}
+.overflow-hidden{
+    overflow: hidden;
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+.text-capitalize{
+    text-transform: capitalize;
+}
+.pd-y{
+    padding: 60px 0;
+}
+.pd-y-30{
+    padding: 30px 0;
+}
